@@ -1,0 +1,14 @@
+{
+  "resourceName": "mystorage",
+  "policyUUID": "dbcda639",
+  "bucketName": "amplifyappd50fab2a753349548819d3b584aa7d21",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
